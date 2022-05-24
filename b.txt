@@ -1,3 +1,0 @@
-b.txt
-
-alteração remota do arquivo. Testar pull.
