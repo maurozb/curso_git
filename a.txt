@@ -3,3 +3,4 @@ a.txt
 Linha adicionada pelo usuário 2.
 
 Modificação a respeito da funcionalidade_a pelo 2_repo (outrou usuário).
+Dev do 1_repo reconheceu o branch funcionalidade_a e está adicionando um recurso b ao branch.
