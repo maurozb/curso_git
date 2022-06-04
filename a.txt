@@ -4,3 +4,4 @@ Linha adicionada pelo usuário 2.
 
 Modificação a respeito da funcionalidade_a pelo 2_repo (outrou usuário).
 Dev do 1_repo reconheceu o branch funcionalidade_a e está adicionando um recurso b ao branch.
+Mais outra modificação feita no branch funcionalidade_a pelo dev do 2_repo.
