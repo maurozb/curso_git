@@ -1,3 +1,5 @@
 a.txt
 
 Linha adicionada pelo usuário 2.
+
+Modificação a respeito da funcionalidade_a pelo 2_repo (outrou usuário).
